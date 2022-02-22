@@ -171,7 +171,7 @@ while True:
             score = 0
 
             # Reset the delay
-            delay = 0.1
+            delay = 0.2
         
             # Update the score display
             pen.clear()
